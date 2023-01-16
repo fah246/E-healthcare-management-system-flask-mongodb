@@ -1,11 +1,13 @@
 # E-healthcare-management-system-flask-mongodb
 In the project there is 3 type of users. Normal user/website visitor, Admin user and Patient user.
 The features of these users are given below:
+
 ******* Normal user:
 1.	can see website contact info and contact admin user
 2.	can view information of doctors, their contact, specialty
 3.	can view medicine info, tips regarding health and other topics
 for getting other options like searching doctors, medicine, health tips and getting personalization options like saving favorite medicine or tips or removing them from favorite list user need to log in and sign up in the application. These options are available for patient type user.
+
 ******** patient user:
 1.	They can sign up
 2.	After sign up they can Login 
@@ -17,6 +19,7 @@ for getting other options like searching doctors, medicine, health tips and gett
 8.	 They can see and search Tips 
 9.	They can save favorite tips and remove them from favorite list if necessary
 10.	They can save favorite medicine list and remove them from favorite list if necessary
+
 ******** admin user:
 1.	They can sign up
 2.	After sign up they can Login 

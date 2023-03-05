@@ -1,5 +1,5 @@
 # E-healthcare-management-system-flask-mongodb
-In the project there is 3 type of users. Normal user/website visitor, Admin user and Patient user.
+In the project there are 3 types of users. Normal user/website visitor, Admin user and Patient user.
 The features of these users are given below:
 
 ******* Normal user:
